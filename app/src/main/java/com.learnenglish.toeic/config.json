@@ -1,49 +1,93 @@
 {
-  "email": "nfdroidmobile@gmail.com",
-  "enable": true,
-  "later": 0,
-  "ads": {
-    "items": 4,
-    "ids": {
-      "admob": {
-        "b": "ca-app-pub-4206000415580410/4330707071",
-        "n": "",
-        "p": "ca-app-pub-4206000415580410/5065914687"
-      },
-      "fan": {
-        "b": "403774430034326_403778743367228",
-        "n": "403774430034326_403778366700599",
-        "p": "403774430034326_403778620033907"
-      },
-      "startapp": "207129026",
-      "unity": "1502445"
+  "generalApp": [
+    {
+      "id": "english.word.matching.game",
+      "des": "Vừa học vừa chơi với game cực vui và gây nghiện",
+      "title": "English Matching Game"
     },
-    "trigger": 48,
-    "interval": 6,
-    "type": {
-      "b": 3,
-      "n": 0,
-      "p": {
-        "net": 0,
-        "click": 3,
-        "close": 0,
-        "lock": 0,
-        "load": 0,
-        "switch": 0,
-        "gift": 0,
-        "open": 0
-      }
+    {
+      "id": "english.grammar.quiz.fun.game",
+      "des": "Vừa học vừa chơi với game cực vui và gây nghiện",
+      "title": "Grammar Fun Quizzes Game"
     },
-    "replace": {
-      "b": 1,
-      "n": 0,
-      "p": 8
+    {
+      "id": "com.atoz.tieng.anh.phat.am",
+      "title": "Phát âm Tiếng Anh"
+    },
+    {
+      "id": "com.atoz.tieng.anh.giao.tiep",
+      "title": "Tiếng anh giao tiếp"
+    },
+    {
+      "id": "com.baihoc.tienganh.coban1",
+      "title": "Bài Học Tiếng Anh Cơ Bản"
+    },
+    {
+      "id": "english.funny.toeic.tienganh.hoc.tieng.anh",
+      "title": "Ôn luyện, thi thử toeic"
+    },
+    {
+      "id": "com.appviet.tu.vung.tieng.anh",
+      "title": "Từ vựng tiếng anh - Phương pháp học Spaced Repetition"
+    },
+    {
+      "id": "com.tienganh.tu.vung.hinh.anh",
+      "title": "Từ Vựng Tiếng Anh Qua Hình Ảnh"
+    },
+    {
+      "id": "com.tienganhatoz.luyen.nghe",
+      "title": "Luyện Nghe Tiếng Anh"
+    },
+    {
+      "id": "com.tieng.anh.luyen.thi.b1",
+      "title": "Luyện thi B1"
+    },
+    {
+      "id": "com.tienganh.voa.english",
+      "title": "Học Tiếng Anh với VOA"
+    },
+    {
+      "id": "english.funny.game.vocabulary",
+      "title": "Game Luyện Từ Vựng Qua Hình Ảnh"
+    },
+    {
+      "id": "com.appviet.nguphap",
+      "title": "Ngữ pháp tiếng anh"
     }
-  },
-  "update": "https://raw.githubusercontent.com/mdtuyen/test/dev/app/src/main/assets/com.starmedia.smarttv/update.json",
-  "app": {
-    "country": "^(VN)$",
-    "sim": "vn",
-    "wordblock": ".*.mp4.*"
+  ],
+  "preferApp": [
+    {
+      "id": "english.word.matching.game",
+      "des": "Vừa học vừa chơi với game cực vui và gây nghiện",
+      "title": "English Matching Game"
+    },
+    {
+      "id": "english.grammar.quiz.fun.game",
+      "des": "Vừa học vừa chơi với game cực vui và gây nghiện",
+      "title": "Grammar Fun Quizzes Game"
+    },
+    {
+      "id": "com.atoz.tieng.anh.giao.tiep",
+      "des": "Ứng dụng học tiếng anh giao tiếp tốt nhất được tin tưởng sử dụng bởi 1tr người",
+      "title": "Tiếng anh giao tiếp"
+    },
+    {
+      "id": "com.appviet.tu.vung.tieng.anh",
+      "title": "Từ vựng tiếng anh - Phương pháp học Spaced Repetition",
+      "des": "Học thuộc Từ vựng dễ dàng với thuật toán Spaced Repetition"
+    }
+  ],
+  "advertising": {
+    "admob": {
+      "b": "ca-app-pub-4206000415580410/5732116094",
+      "p": "ca-app-pub-4206000415580410/9453220329"
+    },
+    "fan": {
+      "p" : "691644851172813_691648574505774",
+      "b" : "691644851172813_691648971172401",
+      "n" : "691644851172813_691645187839446",
+      "bn": "691644851172813_691648097839155"
+    },
+    "startapp": "207129026"
   }
 }
