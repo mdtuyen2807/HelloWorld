@@ -1,0 +1,82 @@
+{
+  "replace":[
+    {
+      "key":"http://103.56.158.185/tv_icon/mybongda1.png",
+      "value":"http://tv.101vn.com/images/1.jpg"
+    }
+  ],
+  "more":[
+    {
+      "img": "https://lh3.googleusercontent.com/B96XtDKcdVfE1Gi1SHeF4gRNTThwmep8Aagra7Zq1diKEsOsJ6mjbGsK6EbeWkVMKN74=w300-rw",
+      "title": "FiK - Ứng dụng tìm xe",
+      "des": "Ứng dụng cho phép lưu lại vị trí xe bạn gửi cũng như chỉ đường đến nơi bạn để xe, hay đến các gara, bãi đỗ xe gần nhất",
+      "id": "com.mobiledev.findcar"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/GewTyU_W6_-ymxJk8BcN2XrJVLP1ErCQWsC6U4uQFTSLPYlp_orG78TOlFR_aqcnxOo=w300-rw",
+      "title": "10 Vạn món ăn Việt",
+      "des": "Ngoài các công thức món ăn ngon được update liên tuc có hướng dẫn tỉ mỉ bằng cả hình ảnh",
+      "id": "com.mobiledev.monngon"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/qh-Bn9_1uXndT6oZNRcmXrHTAbWU-YU_y-MMknzhL-EnQwLrOS7V5EEASWx7FdnYaw0=w300-rw",
+      "title": "Trở thành Thánh Xoay",
+      "des": "Cùng Trở thành Thánh Xoay giải trí với hàng ngàn câu hỏi thú vị sẽ khiến bạn mất 1 vài giây suy nghĩ, nghĩ kĩ trước khi trả lời vì đáp án khá là thú vị và bất ngờ.",
+      "id": "com.mobiledev.hoikho"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/pUtGO4dCB046jdQWdjN8sY-6idOIGqPatT6Stvgb6N2_JdbmZxbYSW1yfVFBlqnzJgA=w300-rw",
+      "title": "HD Video Downloader",
+      "des": "HD Video Downloader là ứng dụng Video Downloader tốt nhất và dễ dàng nhất để tải và lưu video từ Facebook.",
+      "id": "com.mobiledev.fdownloader"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/_IrdBcW76Y7W9C3UfRtYgTFFA-B58W3WP-_hYwo4GCq1vKG66ce_X96ytq7k9H6i9jU=s180-rw",
+      "title": "Vua Bếp: ứng dụng nhiều món ăn nhất 2018",
+      "des": "- Hàng vạn món ăn được sắp sếp vào 104 mục khác nhau cho bạn dễ dàng duyệt các món ăn, tìm món ăn mình thích và phù hợp ngay bây giờ.",
+      "id": "com.nfmedia.vuabep"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/_IrdBcW76Y7W9C3UfRtYgTFFA-B58W3WP-_hYwo4GCq1vKG66ce_X96ytq7k9H6i9jU=s180-rw",
+      "title": "Vua Bếp: ứng dụng nhiều món ăn nhất 2018",
+      "des": "- Hàng vạn món ăn được sắp sếp vào 104 mục khác nhau cho bạn dễ dàng duyệt các món ăn, tìm món ăn mình thích và phù hợp ngay bây giờ.",
+      "id": "com.smartmedia.musicplayer"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/nv5ZmdL8_5L2IYWw97F9GkmwdNjOHJM0OyD91kFhT4Kd1eSnoDkeDpuekvUfrUuCHpw=s180-rw",
+      "title": "Pee Music",
+      "des": "Ứng dụng nghe nhạc đa chức năng, nghe nhạc online, nghe nhạc offline, nghe nhạc mp3, nghe video ca nhạc.",
+      "id": "com.smartmedia.musicplayer"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/QEj_ubMPL5Xyppr6b8-Es8HJ6sz5maeYgMAHLq2qYZFlp51565muOHSuZLHetdHXoaE=s180-rw",
+      "title": "Sổ tay OtoFun: luật giao thông cần nhớ",
+      "des": "Sổ tay OtoFun một ứng dụng hỗ trợ tra cứu luật giao thông cho anh em tài xế khi tham gia giao thông.",
+      "id": "com.pvmedia.sotaygiaothong"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/I1SUblH5-GLsAAWW99nBO_2L-Om-6teR8duhZTIA15XkuK9LwBV0OvvCQeqCO053Pw=s180-rw",
+      "title": "Sweet Music Player",
+      "des": "Với Mp3 player, music player bạn có thể nghe tất cả các thể loại audio. Chơi mp3 music và các thể loại khác.",
+      "id": "com.pvmedia.themusic"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/nv5ZmdL8_5L2IYWw97F9GkmwdNjOHJM0OyD91kFhT4Kd1eSnoDkeDpuekvUfrUuCHpw=s180-rw",
+      "title": "Pee Music",
+      "des": "Ứng dụng nghe nhạc đa chức năng, nghe nhạc online, nghe nhạc offline, nghe nhạc mp3, nghe video ca nhạc.",
+      "id": "com.smartmedia.musicplayer"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/6bSdH5L1t8gCqwjb-m7FSGlJpbXzpiv1dGllsycbo2duZWKd2t-rthiuL1x9rN1-yEW1=s180-rw",
+      "title": "Pi Browser: trình duyệt web, download và bảo mật",
+      "des": "Pi Browser là một trình duyệt web mạnh mẽ hỗ trợ nhiều tính năng mà một trình duyệt web thông thuường không thể có được đồng thời vẫn giữ được tốc độ do được xây dựng trên nền tảng chrome của google.",
+      "id": "com.nfmedia.browser"
+    },
+    {
+      "img": "https://lh3.googleusercontent.com/JfhX4kk4xDUTe6vGKlq8a3t-tF5CSVfkE22XmOfLCPcDv1TTtF5m6OpjFe1XzE93klCo=s180-rw",
+      "title": "365 Món mới mỗi ngày",
+      "des": "Ăn ngon là một nhu cầu không thể thiếu với mỗi chúng ta, ai cũng thích ăn ngon tuy nhiên không phải ai cũng biết nấu ăn...",
+      "id": "com.pvmobile.nauan"
+    }
+  ]
+}
